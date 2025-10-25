@@ -1,2 +1,2 @@
-# The-Spyer-
-I am gonna build a PCB for a project known as the Spyer, which would have camera, speakers and many more things which would make Spying efficient (Just for ethical use). So do look at this repository for a cool project!!!
+# VikramSatv0.EPS Redevelopement!!!
+So you might have taken a look at the VikramSatv0_Electrical-Power-Subsystem repository during the GROUNDED, I also got the grant for this project, but I noticed some major flaws in this!!! I believe that the best way to learn something is to make mistakes I it, so I'll be fixing those mistakes here and kinda make big changes in the whole board, so get ready for the upcoming adventure!
