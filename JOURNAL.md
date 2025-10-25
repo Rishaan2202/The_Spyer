@@ -8,7 +8,7 @@
 
 ## 10/25/2025 - Day 1! Did some PLANNING STUFF!!!  
 
-Yeah!!! It's day 1 and you gotta keep your josh high! So today I made the complete overview of the project! and decided some major components. I wanted to make a new repository for this project, but wasn't able to do that as I am on my phone! Yeah, I'm out of station and was not permitted to take my laptop with me by my parents, so yeah, I used one old repo of no use now for this project, well, you gotta see the OVERVIEW now!
+Yeah!!! It's day 1 and you gotta keep your josh high! So today I made the complete overview of the project! and decided some major components. I also thought that 2S4P would be much better than 1S8P, so I kinda changed it too! I wanted to make a new repository for this project, but wasn't able to do that as I am on my phone! Yeah, I'm out of station and was not permitted to take my laptop with me by my parents, so yeah, I used one old repo of no use now for this project, well, you gotta see the OVERVIEW now!
 
 ![image](//hc-cdn.hel1.your-objectstorage.com/s/v3/20d5fd408cee897cbfdc0ce9889951b0830569e3_20251025_132649.jpg)  
 
